@@ -5,7 +5,6 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/CamSpence/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/CamSpence/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/CamSpence/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/CamSpence/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CamSpence/azure-network-protocols)
